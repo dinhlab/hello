@@ -2,7 +2,7 @@ A learning project @Coderschool
 
 ## Dinh
 
-## Feature
+## Features
 
 1. Create Github repo
 2. Add project's README using Markdown
