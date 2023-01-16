@@ -7,3 +7,5 @@ A learning project @Coderschool
 1. Create Github repo
 2. Add project's README using Markdown
 3. Deply to Netlify
+
+Live link: https://hello-dinh.netlify.app/
